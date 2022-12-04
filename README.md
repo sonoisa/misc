@@ -4,6 +4,10 @@
 
 どれもGoogle Colaboratoryで動かすことを前提としています。
 
+- 日本語多クラス分類タスクを題材としたSetFitとT5の精度比較実験コード
+  - 解説記事: [実際問題、Few-Shot学習手法SetFitはいつ使うとよいのか？](https://qiita.com/sonoisa/items/297fa2994a08c71d01c5)
+  - [SetFit_japanese_document_classification.ipynb](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/SetFit_japanese_document_classification.ipynb)
+  - [t5_japanese_classification_fewshot.ipynb](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/t5_japanese_classification_fewshot.ipynb)
 
 
 - [SetFit_japanese.ipynb](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/SetFit_japanese.ipynb): [SetFitアルゴリズム](https://arxiv.org/abs/2209.11055)を用いたセンチメント分析（2値分類タスク）
