@@ -18,6 +18,7 @@
 - [elasticsearch_example.ipynb](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/elasticsearch_example.ipynb): elasticsearchを用いた日本語文章検索
 - [parse_wiki40b.ipynb](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/parse_wiki40b.ipynb): Wiki-40Bのデータセットの構造化
 
+- [structural_information_extraction_with_fused_Gromov_Wasserstein_optimal_transport_POT](https://colab.research.google.com/github/sonoisa/misc/blob/main/nlp/structural_information_extraction_with_fused_Gromov_Wasserstein_optimal_transport_POT.ipynb): Fused-Gromov-Wasserstein距離による最適輸送を用いたレイアウトと文章の類似度を加味した曖昧情報抽出
 
 ## ハンズオン用のコード
 
