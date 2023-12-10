@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac
 .DS_Store
+
+# minecraft
+minecraft/buffons_needle/backups
